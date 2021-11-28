@@ -1,1 +1,2 @@
 Nesse arquivo está a minha aplicação
+Nova linha da aplicação
