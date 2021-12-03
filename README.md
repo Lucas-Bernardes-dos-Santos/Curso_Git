@@ -1,3 +1,3 @@
 # Curso_Git
-Autor: Lucas Bernardes
+Autor: Eric Bernardes
 Repositório criado para o meu curso de Git e GitHub.
